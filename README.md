@@ -1,97 +1,63 @@
-<h1 align="center">Hi 👋, I'm Dharmendra Kumar (dharmendrakumar)</h1>
-<h3 align="center">aka dharmendrastm | dharmendrahacker</h3>
-<h4 align="center">eJPTv2 Certified Junior Penetration Tester | Cybersecurity Researcher | Bug Bounty Hunter</h4>
+## 🐍💻 About Me:  
+> "Hackers don't break in. They log in."  
 
-<p align="center">
-  <b>Keywords:</b> Dharmendra Kumar, dharmendrakumar, dharmendrastm, dharmendrahacker, Penetration Tester, Cybersecurity, Bug Bounty
-</p>
+🛡️ **eJPT Certified || Junior Penetration Tester || Ethical Hacker || Web & VAPT Specialist || Security Researcher ||CTF Player**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dharmendrastm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dharmendra%20Kumar-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://dharmendrastm.github.io/PortfolioWebsite/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox">
-  </a>
-  <a href="https://medium.com/@dharmendrastm" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Dharmendra%20Kumar-black?style=for-the-badge&logo=medium">
-  </a>
-  <a href="https://www.youtube.com/@DharmendraCyberHacks" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-DharmendraCyberHacks-red?style=for-the-badge&logo=youtube">
-  </a>
-</p>
+* 🚀 Continuously expanding my expertise in **Cybersecurity & Ethical Hacking**.
+* 💀 Currently preparing for **Active Directory Red Team Specialist** certification.
+* 💻 Deeply passionate about **Offensive Security** & **Bug Bounty Hunting**.
+* 🎮 Active **CTF Player** on **Hack The Box**, **TryHackMe**, & **PortSwigger Labs**.
+* 🧱 Exploring advanced concepts in **Penetration Testing, Web Security & Vulnerability Research**.
+* 👨‍💻 Collaborating on innovative **Open-Source Security Projects**.
+* 🎯 Focused on mastering **Red Teaming, Network Security & Threat Simulation**.
 
 ---
 
-## 👨‍💻 About Me — Dharmendra Kumar (dharmendrakumar | dharmendrastm | dharmendrahacker)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100073487926573) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dharmendra_stm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmendrastm/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dharmendrastm) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DHARMEN75705829) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@dhmobiletech) 
 
-Hi, I’m **Dharmendra Kumar**, also known online as **dharmendrakumar**, **dharmendrastm**, and **dharmendrahacker**.  
-I am an **eJPTv2 Certified Junior Penetration Tester and Cybersecurity Researcher** with strong hands-on experience in **Web Application Security, Vulnerability Assessment & Penetration Testing (VAPT), and Bug Bounty Hunting**.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://dharmendrastm.github.io/PortfolioWebsite/) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-I actively practice on **Hack The Box, TryHackMe, and PortSwigger Web Security Academy**, and I test real-world applications to identify vulnerabilities and security misconfigurations.
+## 💀 Tech Stack I Use For Hacking:  
+🕶️ **Programming Languages:**  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
-My current learning focus includes **Active Directory Red Teaming, privilege escalation, lateral movement, post-exploitation, and network penetration testing**.
+💻 **Tools for Penetration Testing:**  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00.svg?style=for-the-badge&logo=burpsuite&logoColor=white)  ![Metasploit](https://img.shields.io/badge/Metasploit-000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)  ![Nmap](https://img.shields.io/badge/Nmap-004AA7.svg?style=for-the-badge&logo=nmap&logoColor=white)  ![Aircrack-ng](https://img.shields.io/badge/Aircrack-000000.svg?style=for-the-badge&logo=aircrack&logoColor=white)  ![John the Ripper](https://img.shields.io/badge/John%20The%20Ripper-000000.svg?style=for-the-badge&logo=jtr&logoColor=white)  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)  ![TOR](https://img.shields.io/badge/TOR-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)  
 
-I use tools like **Burp Suite, Nmap, Metasploit, Wireshark, SQLmap, and Kali Linux**, and I write automation scripts using **Python and C**.
+🛠️ **Platforms:**  
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)  ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?style=for-the-badge&logo=tryhackme&logoColor=white)  
 
-My goal is to grow as a professional **Red Team Engineer and Bug Bounty Hunter**, helping organizations secure their applications and infrastructure.
+## 💻 My Portfolio:  
+👉 **[Visit My Portfolio](https://dharmendrastm.github.io/PortfolioWebsite/)** 🚀 
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DharmendraStm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🎯 Focus Areas
+![](https://github-profile-trophy.vercel.app/?username=DharmendraStm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔐 Web Application Security (OWASP Top 10)
-- 🧪 Vulnerability Assessment & Penetration Testing (VAPT)
-- 🐞 Bug Bounty Hunting
-- 🧠 Active Directory Attacks & Red Team Operations
-- 🌐 Network Penetration Testing
-- 🎮 CTF Challenges (HTB • THM • PortSwigger)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+![Your Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Cybersecurity%20is%20not%20a%20product%2C%20but%20a%20process.%20Stay%20vigilant%2C%20stay%20secure.)
 
-## 🛠️ Tools & Technologies
+# 👁️ Visitor Counter
+[![](https://visitcount.itsvg.in/api?id=DharmendraStm&icon=0&color=5)](https://visitcount.itsvg.in)
 
-### 🔧 Pentesting Tools
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004AA7?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-black?style=for-the-badge)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<!--
+**Dharmendrastm/dharmendrastm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-## 🏆 Achievements
-
-- 🏅 Hall of Fame on Bugcrowd for Responsible Disclosure
-- 🎓 eJPTv2 Certified – Junior Penetration Tester
-- 🎯 Active Bug Bounty Hunter & CTF Player
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharmendraStm&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DharmendraStm&theme=radical" />
-</p>
-
----
-
-## 🌐 Connect With Dharmendra Kumar (dharmendrakumar | dharmendrastm | dharmendrahacker)
-
-- 🔗 Portfolio: https://dharmendrastm.github.io/PortfolioWebsite/
-- 💼 LinkedIn: https://www.linkedin.com/in/dharmendrastm/
-- ✍️ Medium: https://medium.com/@dharmendrastm
-- 🎥 YouTube: https://www.youtube.com/@DharmendraCyberHacks
-
----
-
-### 🔐 "Cybersecurity is not a product, it's a process. Stay vigilant, stay secure."  
-— Dharmendra Kumar (dharmendrakumar | dharmendrastm | dharmendrahacker)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
