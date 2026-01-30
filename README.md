@@ -1362,7 +1362,7 @@ Visual Content
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.youtube.com/@dhmobiletech">
+<a href="https://www.youtube.com/@DharmendraCyberHacks">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube"/>
 <br><br>
 <b>YouTube</b>
